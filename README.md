@@ -4,10 +4,12 @@
 - 💻 Backend Developer (Python)
 - ☁️ Aspiring Cloud Engineer
 
-🧠 Currently Learning
+🧠 Currently Learning:
 - Django (Backend Development)
 - Java (OOP Fundamentals)
 - Cloud Computing
+
+🚀 Working on building backend projects with Python
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
